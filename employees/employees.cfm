@@ -22,8 +22,8 @@ FROM
 
 <body>
 <cfoutput>
-	
-<h1>Find a Gruden Employee Git push 4</h1>
+<h1>Find a Gruden Employee</h1>
+
 <fieldset>
 	<legend>Search Form</legend>
 		<form name="employeeSearch" action="employees.cfm" method="post" onsubmit="return searchEmp();">
