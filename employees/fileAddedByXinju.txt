@@ -1,3 +1,4 @@
 Test the git commit.
 edit by yang then
 \(^_^)/
+try git config
