@@ -1,4 +1,4 @@
 Test the git commit.
-edit by yang then
+edit by yang changzheng
 \(^_^)/
-try git config
+try git config.
