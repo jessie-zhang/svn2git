@@ -3,7 +3,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link href="employees.css" rel="stylesheet" type="text/css">
-<title>Search employee results Update in SVN</title>
+<title>Search employee results Update</title>
 </head>
 
 <body>
